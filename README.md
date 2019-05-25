@@ -1,7 +1,7 @@
 # processing
 Processing educational projects
 
-Here I've recopiled the projects I've done for small projects using processing.
+Here I've collected the projects I've done for small projects using processing.
 
 1. Bluetooth control UART communication
   Here's an interface for controlling through the serial COM port of a PC with bluetooth the colors of an RGB LED, the value of a        cronometer and the opening/closing of serial communication.
